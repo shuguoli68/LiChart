@@ -30,8 +30,7 @@ Step 1. Add the JitPack repository to your build file
 		</repository>
 	</repositories>
 Step 2. Add the dependency
-
-	<dependency>
+<dependency>
 	    <groupId>com.github.shuguoli68</groupId>
 	    <artifactId>LiChart</artifactId>
 	    <version>-SNAPSHOT</version>
