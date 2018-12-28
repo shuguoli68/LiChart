@@ -43,7 +43,7 @@ Step 2. Add the dependency
             .pieTitle("一季度订单分布图",pxDpUtil.sp2px(15).toFloat(), Color.RED)
             .ringSize(pxDpUtil.dip2px(100).toFloat(),Color.WHITE)  
 ```
-![mahua](mahua-logo.jpg)
+![mahua](https://github.com/shuguoli68/LiChart/blob/master/Screenshots/Screenshot_2018-12-25-14-34-33-363_com.li.lichart.png)
 
 ###Set the data.RingChart
 ```java
@@ -52,5 +52,5 @@ Step 2. Add the dependency
             .pieTitle("一季度订单分布图",pxDpUtil.sp2px(15).toFloat(), Color.RED)
             .ringSize(pxDpUtil.dip2px(100).toFloat(),Color.WHITE)
 ```
-![mahua](mahua-logo.jpg)
+![mahua](https://github.com/shuguoli68/LiChart/blob/master/Screenshots/Screenshot_2018-12-25-14-35-03-773_com.li.lichart.png)
 	
